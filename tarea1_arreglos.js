@@ -1,5 +1,5 @@
 
-var arregloUno = [4, 6, 8, 5, 3,7];
+var arregloUno = [4, 6, 8, 5, 3, 7,1];
 var arregloDos = [];
 
 while(arregloUno.length >0 ){
